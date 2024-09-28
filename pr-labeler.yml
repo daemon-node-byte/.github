@@ -1,0 +1,6 @@
+feature :rocket:: ['feature/*', 'feat/*']
+fix :bug:: ['fix/*']
+chore :hammer:: ['chore/*']
+docs :books:: ['docs/*']
+test :test_tube:: ['test/*']
+refactor :recycle:: ['refactor/*']
